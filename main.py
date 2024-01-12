@@ -1359,16 +1359,46 @@
 
 # Словарь
 
+# lst = [1, 2, 3]
+# d = {'one': 1, 'two': 2, 'three': 3, 4: "four"}
+# lst[0] = 10
+# print(lst[0])
+# d['one'] = 10
+# print(d['one'])
+
+# d = {'one': 1, 'two': 2, 'three': 3, 4: "four"}
+# print(d)
+# print(type(d))
+#
+#
+# d1 = dict(one=1, two=2)
+# print(d1)
+# print(type(d1))
+
+d = {'one': 1, 'two': 2, 'three': 3, (1, 2, 3): "кортеж", True: [1, 2, 3, 4, 5]}
+print(d)
 
 
 
-text = input("Введите строку: ")
+# text = input("Введите строку: ")
+#
+# b = "уеыаоэяиюУЕЫАОЭЯИЮ"
+#
+# count = 0
+# for char in text:
+#     if char in b:
+#         count += 1
+#
+# print("Количество гласных букв в строке:", count)
 
-b = "уеыаоэяиюУЕЫАОЭЯИЮ"
 
-count = 0
-for char in text:
-    if char in b:
-        count += 1
+# _______________________________-
 
-print("Количество гласных букв в строке:", count)
+# dict_origin = {'name': 'Kelly', 'age': 25, 'salary': 8000, 'city': 'New York'}
+#
+# dict_new = {'name': dict_origin['name'], 'salary': dict_origin['salary']}
+# del dict_origin['name']
+# del dict_origin['salary']
+#
+# print(dict_origin)
+# print("Новый словарь:", dict_new)

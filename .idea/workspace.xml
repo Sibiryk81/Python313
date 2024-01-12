@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="134b1c6f-96bb-4811-ac9d-2b6afc2a0afb" name="Changes" comment="" />
+    <list default="true" id="134b1c6f-96bb-4811-ac9d-2b6afc2a0afb" name="Changes" comment="hw12">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d84eb326-25ff-4b7e-8c3f-dc9d27e0613a" />
+        <option name="url" value="https://github.com/Sibiryk81/Python313.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,7 +80,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.main">
-    <configuration name="HW6-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HW12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,8 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/дз Python/HW6-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/дз Python/HW12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,10 +192,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.HW12" />
         <item itemvalue="Python.HW8" />
         <item itemvalue="Python.HW7" />
         <item itemvalue="Python.HW6" />
-        <item itemvalue="Python.HW6-1" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +211,31 @@
       <workItem from="1702108281192" duration="6865000" />
       <workItem from="1702116169877" duration="38000" />
     </task>
+    <task id="LOCAL-00001" summary="hw12">
+      <option name="closed" value="true" />
+      <created>1703610946651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703610946651</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw12">
+      <option name="closed" value="true" />
+      <created>1703611091258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703611091258</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hw12">
+      <option name="closed" value="true" />
+      <created>1704703098986</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704703098986</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +268,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw12" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw12" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$Hw5.coverage" NAME="Hw5 Coverage Results" MODIFIED="1700917086173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/дз Python" />
